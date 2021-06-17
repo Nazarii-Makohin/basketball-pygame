@@ -1,0 +1,15 @@
+algorithm==1.2.0
+appdirs==1.4.4
+check-requirements-txt==1.0.2
+dependency-injection==1.2.0
+distlib==0.3.1
+filelock==3.0.12
+hungarian-algorithm==0.1.11
+mysql-connector-python==8.0.25
+numpy==1.20.3
+pygame==2.0.1
+scipy==1.6.3
+six==1.16.0
+stdlib-list==0.8.0
+tabulate==0.8.9
+virtualenv==20.4.6
